@@ -1,5 +1,3 @@
-
-
 function Mock-Inventory {
     
     # Create an empty array to store the inventory objects
